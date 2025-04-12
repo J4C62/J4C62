@@ -12,9 +12,9 @@
 
 ###
 
-<p align="left">👨‍💻 Currently working as an Application Developer at Globant for Iberia projects, utilizing Java Spring for backend development. Passionate about building scalable, efficient solutions to solve complex problems.</p>
+👨‍💻 Currently working as an Application Developer at Globant for Iberia projects, utilizing Java Spring for backend development. Passionate about building scalable, efficient solutions to solve complex problems.</p>
 
-<p align="left">🌱 **Always experimenting with new technologies!** Currently, I'm working on projects like a **Cloud Event Broadcaster** (notification services via email, etc.), which involves exploring new ways to handle event-driven systems and improve communication channels. Always looking for innovative ways to integrate cutting-edge technologies into my work.</p>
+🌱 **Always experimenting with new technologies!** Currently, I'm working on projects like a **Cloud Event Broadcaster** (notification services via email, etc.), which involves exploring new ways to handle event-driven systems and improve communication channels. Always looking for innovative ways to integrate cutting-edge technologies into my work.</p>
 
 ###
 
